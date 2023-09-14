@@ -1,0 +1,1 @@
+// Objects in JavaScript are a little more complex than arrays, but they're also very powerful. An object is a data structure that can contain multiple properties and methods. Each property has a name and a value, and each method is a function that can be executed
